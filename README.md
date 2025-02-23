@@ -1,0 +1,2 @@
+# 1908012_edge_Python_For_beginners_project
+Advanced Soybean Agricultural Dataset
